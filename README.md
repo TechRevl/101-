@@ -168,7 +168,7 @@ If you have any questions about this Privacy Policy or our privacy practices, pl
 
 إذا كان لديك أي أسئلة حول سياسة الخصوصية هذه أو ممارسات الخصوصية لدينا، يرجى الاتصال بنا:
 
-**البريد الإلكتروني:** [بريدك الإلكتروني]
+**البريد الإلكتروني:** codeaimed@gmail.com
 **اسم التطبيق:** 101 محادثة بالإنجليزية
 **الحزمة:** com.englishmdar.conversations
 
